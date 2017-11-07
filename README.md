@@ -36,7 +36,7 @@ Udacity Project 1 Movie Trailer Project.
 
 	BUGS AND FEATURE REQUESTS
 	Have a bug or a feature request? Please open an issue,
-  https://github.com/Etang131/Movie-Trailer-Website	
+  	github.com/Etang131/Movie-Trailer-Website	
 
 	
 
